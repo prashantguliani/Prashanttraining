@@ -1,3 +1,6 @@
 change 1
-Change 2
-/bin/bash: WQ:: command not found
+Change 1
+third line
+fourth line
+
+/bin/barsh: WQ:: command not found
