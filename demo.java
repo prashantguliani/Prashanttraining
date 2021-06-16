@@ -1,3 +1,13 @@
 change 1
 Change 2
-/bin/bash: WQ:: command not found
+third line
+fourth line
+
+
+
+bin/bash: WQ:: command not found
+
+
+:q!
+:q
+
